@@ -1,4 +1,5 @@
 
+/* start Css coding */
 :root {
   --asli: green;
   --secondd: gold;
@@ -7,6 +8,7 @@
   font-family: "testi";
   src: url("c:\WINDOWS\FONTS\BERNHC.TTF");
 }
+/* for all of things */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -99,6 +101,7 @@
   text-align: center;
   display: inline;
 }
+/* media query for responsive web */
 @media screen and (max-width: 600px) {
   .col-xs-1 {
     width: 8.33%;
@@ -289,11 +292,13 @@
     width: 100%;
   }
 }
+/* learn animation and transitions */
 .box {
   background-color: rgb(255, 0, 0);
   height: 1000px;
   position: relative;
 }
+
 .target {
   position: absolute;
   top: 0;
@@ -308,3 +313,4 @@
   transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
   transform: skew(20deg);
 }
+/* end Css at this moment */
