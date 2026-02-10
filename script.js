@@ -355,3 +355,14 @@ let lengthList=list.map(n=>n+" :"+n.length);
 console.log(lengthList); //[ 'amin :4', 'ali :3', 'hosein :6' ]
 
 End 9 Bahman*/
+
+/*Start 21 Bahman
+//#PROPMT
+let userName=prompt("write your name :","no caller ID");
+console.log("hello "+userName); //hello ...
+let userAge=prompt("how old are you?");
+console.log(typeof userAge);//string
+userAge=+userAge; // <=> userAge=number(userAge);
+console.log(typeof userAge);//number
+
+End 21 Bahman*/
