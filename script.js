@@ -366,3 +366,12 @@ userAge=+userAge; // <=> userAge=number(userAge);
 console.log(typeof userAge);//number
 
 End 21 Bahman*/
+
+/* Start 1 Esfand
+
+let Pi=Math.PI;
+console.log(Pi); //3.141592653589793
+console.log(Pi.toFixed(3)); //3.142
+let now =new Date();
+console.log(now.toLocaleString("fa"));
+end  1 Esfand*/
